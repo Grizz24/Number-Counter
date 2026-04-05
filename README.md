@@ -1,17 +1,16 @@
 Number Counter
 
 ## 🚀 Overview
-This project is a [what it is] built to solve [problem].
+This project is a Number Increment built to help keep track of incrementing and decrementing numbers.
 
 ## 🛠 Tech Stack
-- React.js
-- Django
-- MySQL
+- Javascipt
+- Html
+- CSS
 
 ## ✨ Features
-- Feature 1
-- Feature 2
-- Feature 3
+- To Increment numbers
+- To decrement numbers
 
 ## 🌐 Live Demo
 [Add link here]
