@@ -12,9 +12,6 @@ This project is a Number Increment built to help keep track of incrementing and 
 - To Increment numbers
 - To decrement numbers
 
-## 🌐 Live Demo
-[Add link here]
-
 ## 📸 Screenshots
 (Add images if possible)
 
